@@ -10,6 +10,8 @@ The .exe is for computer play
 DOWNLOAD: https://www.dropbox.com/sh/nc5g6dhql19eagx/AADcbgSSRVtBBIgkNKYFakoDa?dl=0
 
 
+AppLink: https://play.google.com/store/apps/details?id=com.iammarq.vapor&hl=en
+
 
 
 (Must have the _data file to play the game)
